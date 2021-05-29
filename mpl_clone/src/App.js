@@ -1,13 +1,12 @@
-import './App.css';
-import Footer from './components/Footer';
+import "./App.css";
+// import { FruitDartGame } from "./components/FruitDartGame";
 
 function App() {
-  return (
-    <div className="App">
-    <Footer/>
-       
-    </div>
-  );
+	return (
+		<div className="App">
+			{/* <FruitDartGame /> */}
+		</div>
+	);
 }
 
 export default App;
