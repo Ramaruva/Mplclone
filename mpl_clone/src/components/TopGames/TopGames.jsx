@@ -7,12 +7,18 @@ import {
 	TopImages,
 	ImageContent,
 	ImgBox,
+	Heading,
+	Content,
 	Box,
 } from "../Styles";
 
 export const TopGames = () => {
 	return (
 		<div>
+			<Heading>Top Games on MPL</Heading>
+			<Content>Play over 60+ games and win cash!</Content>
+			<br />
+			<br />
 			<DisplayImage>
 				<DivBox>
 					<ImgBox>

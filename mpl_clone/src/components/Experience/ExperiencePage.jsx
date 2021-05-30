@@ -13,7 +13,7 @@ import {
 export const ExperiencePage = () => {
 	return (
 		<div>
-			<HeadingFaqs>Get a Great Experience on MPL</HeadingFaqs>
+			
 			<Experience>
 				<ExpBoxs>
 					<Expimagebox>
