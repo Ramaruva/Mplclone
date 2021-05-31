@@ -1,10 +1,19 @@
 import "./App.css";
-import { FruitChopPage } from "./components/FruitChopPage/FruitChopPage";
+import { FruitDartGame } from "./components/FruitDartGame";
+import MplTop from "./components/MplTop/MplTop";
+import Footer from "./footer/Footer";
+// import { MiddleHome } from "./components/MiddleHome";
+// import { FruitDartGame } from "./components/FruitDartGame";
 
 function App() {
 	return (
 		<div className="App">
-			<FruitChopPage />
+	 		<FruitDartGame />
+              {/* <Footer/> */}
+           {/* <MplTop/> */}
+      
+			{/* <FruitDartGame /> */}
+			{/* <MiddleHome/> */}
 		</div>
 	);
 }
