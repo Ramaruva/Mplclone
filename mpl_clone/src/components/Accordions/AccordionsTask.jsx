@@ -8,7 +8,7 @@ export const AccordionsTask = () => {
 				How to score high points in Fruit Dart?
 			</button>
 			<div className="panel">
-				<p>
+				<p className="paracontent">
 					In the Fruit Dart game, you score points every time the knife slices
 					the fruits. You can score high points in Fruit Dart by slicing more
 					than one fruit with the same knife. When you slice multiple fruits
@@ -21,7 +21,7 @@ export const AccordionsTask = () => {
 				How to win the Fruit Dart game on MPL?
 			</button>
 			<div className="panel">
-				<p>
+				<p className="paracontent">
 					When you play Fruit Dart on MPL, you are competing for points against
 					a random opponent. To win against your opponent, you need a higher
 					score than the opponent. Aim for fruit combo shots to multiply your

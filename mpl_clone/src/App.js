@@ -1,13 +1,12 @@
-
-import './App.css';
-import { Navbar } from './components/Navbar/Navbar';
+import "./App.css";
+import { FruitChopPage } from "./components/FruitChopPage/FruitChopPage";
 
 function App() {
-  return (
-    <div className="App">
-         <Navbar />
-    </div>
-  );
+	return (
+		<div className="App">
+			<FruitChopPage />
+		</div>
+	);
 }
 
 export default App;
