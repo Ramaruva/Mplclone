@@ -38,7 +38,7 @@
 	overflow: hidden;
 	/* transition: max-height 0.2s ease-out; */
 }
-p {
+.paracontent {
 	color: rgb(130, 130, 130);
 	font-family: Roboto, sans-serif;
 	text-align: center;

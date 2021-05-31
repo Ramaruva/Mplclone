@@ -1,12 +1,10 @@
 import "./App.css";
-// import { MiddleHome } from "./components/MiddleHome";
-// import { FruitDartGame } from "./components/FruitDartGame";
+import { FruitChopPage } from "./components/FruitChopPage/FruitChopPage";
 
 function App() {
 	return (
 		<div className="App">
-			{/* <FruitDartGame /> */}
-			{/* <MiddleHome/> */}
+			<FruitChopPage />
 		</div>
 	);
 }
