@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  font-family: 'Regular', Trim Web Regular;
 }
 @import url(//db.onlinewebfonts.com/c/64066084d97b188b68757ef02ab5faa5?family=Trim+Web+Regular);
 
+.links{
+  color: red;
+  text-decoration: none;
+  
+}
+.linkDiv{
+  width: 250px;
+  text-align: left;
+  margin-bottom: 30px;
+}
