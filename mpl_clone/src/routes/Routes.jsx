@@ -87,7 +87,7 @@ export const Routes = () => {
 				<Route exact path="/mplesports">
 					mplesports
 				</Route>
-				<Route exact path="/fruit-dart-game">
+				<Route path="/fruit-dart-game">
 					<FruitDartGame />
 				</Route>
 				<Route exact path="/Sudoku">
