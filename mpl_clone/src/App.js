@@ -1,13 +1,17 @@
-import './App.css';
-import Footer from './components/Footer';
+import "./App.css";
+import { FruitDartGame } from "./components/FruitDartGame";
+import MplTop from "./components/MplTop/MplTop";
+import Footer from "./footer/Footer";
 
 function App() {
-  return (
-    <div className="App">
-    <Footer/>
-       
-    </div>
-  );
+	return (
+		<div className="App">
+			<FruitDartGame />
+      <Footer/>
+      <MplTop/>
+      
+		</div>
+	);
 }
 
 export default App;

@@ -1,7 +1,10 @@
+
+
 export const Navbar =()=>
 {
     return(
         <>
+    
           
         </>
     )
