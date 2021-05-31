@@ -19,10 +19,6 @@ import {
 export const FruitDartGame = () => {
 	return (
 		<div>
-			<Heading>Top Games on MPL</Heading>
-			<Content>Play over 60+ games and win cash!</Content>
-			<br />
-			<br />
 			{/* Topgames component */}
 			<TopGames />
 			<Dark>About Fruit Dart Game</Dark>
@@ -223,6 +219,7 @@ export const FruitDartGame = () => {
 			<br />
 			<br />
 			{/* Experinece page  */}
+			<HeadingFaqs>Get a Great Experience on MPL</HeadingFaqs>
 			<ExperiencePage />
 		</div>
 	);
