@@ -35,7 +35,7 @@ export const AccordionsTask = () => {
 				How can I win cash from Fruit Dart?
 			</button>
 			<div className="panel">
-				<p>
+				<p className="paracontent">
 					You can win real cash by playing the Fruit Dart game on the MPL app.
 					Just download the MPL Fruit Dart app and choose the battle you want to
 					enter in. When you score higher points than your opponent in a
